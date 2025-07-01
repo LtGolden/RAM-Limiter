@@ -14,3 +14,7 @@ The Barebones: Launch it, and it literally just limits Chrome and Discord.
 
 
 Installers are labeled, follow directions in the installer after running them.
+
+
+
+YOU HAVE TO RUN THE LIMITER AS ADMINISTRATOR
