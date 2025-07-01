@@ -1,7 +1,7 @@
 # RAM-Limiter
 Limits Application Ram Usage(specifically browsers/discord)
 
-This application is heavily based on 0vm's Ram Limiter, found here: [[https://github.com/0vm/RAM-Limiter](url) ](https://github.com/0vm/RAM-Limiter)
+This application is heavily based on 0vm's Ram Limiter, found here: (https://github.com/0vm/RAM-Limiter)
 
 
 Using his code as a base, I put a few touches on it simply to refine it to my tastes. There are 2 versions:
