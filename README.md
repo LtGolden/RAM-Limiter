@@ -9,3 +9,8 @@ Using his code as a base, I put a few touches on it simply to refine it to my ta
 The GUI Version: After launching, simply delete the programs you don't want to limit/what you don't have.
 
 The Barebones: Launch it, and it literally just limits Chrome and Discord.
+
+
+
+
+Installers are labeled, follow directions in the installer after running them.
