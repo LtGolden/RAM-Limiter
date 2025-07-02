@@ -8,7 +8,7 @@ His tool hasn't been updated in a while, so I figured I'd alter it to my tastes 
 
 The GUI Version: After launching, simply delete the programs you don't want to limit/what you don't have.
 
-The Barebones: Launch it, and it literally just limits Chrome and Discord.
+The Barebones: Launch it, and it literally just limits Chrome, Discord, and Steam.
 
 
 
